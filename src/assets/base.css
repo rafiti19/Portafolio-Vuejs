@@ -1,0 +1,22 @@
+li{
+    list-style-type: .style;
+}
+/*Agregado en el capitulo 5*/
+/*Estos son las reglas globales de la etiqueta tectim del main es App.vue*/
+section {
+    padding: 2rem;
+    border-bottom: 1px solid accc;
+    margin: 2ren;
+}
+section h2{
+    font-size: 2rem;
+    color: aliceblue;
+    border-bottom: 1.5rem;
+    text-align: center;
+}
+
+section h3{
+    color: rgb(209, 183, 148);
+}
+
+
